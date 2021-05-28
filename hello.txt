@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 hello sandeep and bindu
 
 Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to
  Windows while providing appropriate user interfaces for experienced Git users and novices alike.
+=======
+hello sandeep and bindu 
+
+
+sandeep changed text 
+Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of 
+the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.ndu
+>>>>>>> 14fb62a448daa1c9a8a40e5cf19635d5c9c2e855
+
+
+I changed the file
