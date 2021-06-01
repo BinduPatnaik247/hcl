@@ -7,7 +7,7 @@
 
 
 <parent>
-
+<packaging>war</packaging>
 <groupId>org.springframework.boot</groupId>
 
 <artifactId>spring-boot-starter-parent</artifactId>
